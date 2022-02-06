@@ -1,0 +1,2 @@
+Inside this method, you will have to call the AddSession method of the services object.
+The AddSession can be called directly without any parameters and it can also be used to set the IdleTimeout property which sets the Session Timeout duration.
